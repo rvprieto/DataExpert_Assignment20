@@ -1,0 +1,6 @@
+numpy>=1.19.5
+pandas>=1.1.5
+json>=2.0.9
+sklearn>=1.0.1
+imblearn>=0.8.1
+TPOTClassifier
